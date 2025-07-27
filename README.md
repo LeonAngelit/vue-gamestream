@@ -1,3 +1,6 @@
+# Original Repo:
+https://github.com/platzi/vue-gamestream
+
 # vue-gamestream
 Project for platzi vuejs course
 
